@@ -1,0 +1,10 @@
+{
+  "name": "android-button-server",
+  "version": "0.0.1",
+  "description": "A The Button Server For Android",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5",
+    "sqlite3": "^3.0.8"
+  }
+}
